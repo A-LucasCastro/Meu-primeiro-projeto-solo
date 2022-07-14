@@ -1,0 +1,47 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: #1c1a1d url(../Imagens/bmw-carro.jpg);
+}
+
+header {
+    height: 120px;
+    background: rgba(30, 28, 31, 0.502);
+    color: #fff;
+}
+
+/* Coisas do header */
+
+#imagem-logo {
+    width: 100px;
+    height: 100px;
+    margin-left: 200px;
+    padding: 15px 0px;
+    float: left;
+}
+
+header ul {
+    font-size: 20px;
+    margin-left: 600px;
+    padding: 50px 50px;
+    list-style: none;
+}
+
+header ul li {
+    margin-right: 30px;
+    padding: 0px 10px;
+    display: inline;
+}
+
+header a {
+    text-decoration: none;
+    color: #9b949a;
+}
+
+header a:hover {
+    color: #fff;
+}
