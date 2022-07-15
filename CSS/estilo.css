@@ -60,6 +60,10 @@ header a:hover {
     padding: 10px;
 }
 
+#conteudo:hover {
+    background: rgba(44, 44, 44, 0.7);
+}
+
 h1 {
     font-size: 50px;
 }
